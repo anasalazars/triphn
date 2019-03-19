@@ -1,0 +1,90 @@
+.img-fluid{
+	max-width: 100%;
+}
+.perfil h3,
+.perfil p{
+	margin: 0;
+}
+.perfil h3{
+	font-size: 16px;
+	color: #333;
+}
+.perfil p{
+	font-size: 12px;
+	color: #666;
+}
+.panel .list i{
+	color: #474B5E;
+	font-size: 20px !important;
+}
+.panel .list .item-title{
+	font-size: 14px;
+}
+
+.p0{
+	padding: 0 !important;
+}
+.m0{
+	margin: 0 !important;
+}
+
+
+
+
+.demo-card-header-pic .card-header {
+  height: 40vw;
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+}
+.demo-card-header-pic .card-content-padding .date{
+  color: #8e8e93;
+}
+.infopromo .card-header{
+	background-image: url(../img/wikkidresort.jpg);
+	padding: 27%;
+    background-size:contain;
+}
+.md .button.color-orange{
+	color: #fff;
+	background-color: #ff9800;
+}
+.login-screen.modal-in{
+    background-color: #FF9800;
+}
+.logol{
+	padding-top: 70%;
+}
+.block .info{
+	text-align: center;
+	margin-top: -10%;
+}
+h6{
+	font-size: 14px;
+	text-align: center;
+	margin-top: -1.4%;
+	font-weight: 400;
+}
+.img .img-fluid{
+	max-width: 100%;
+}
+.md .button.color-orange.button-active, .md .button.color-orange.button-fill, .md .button.color-orange.button-fill-md, .md .button.color-orange.tab-link-active{
+	font-size: 12px;
+}
+.sobreapli h1{
+	font-size: 16px;
+}
+.sobreapli h2{
+	text-align: center;
+	font-size: 15px;
+}
+.snorkeling .card-header{
+	background-image: url(../img/snorkeling.jpg);
+	padding: 27%;
+    background-size:contain;
+}
+.ibagari .card-header{
+	background-image: url(../img/ibagari.jpg);
+	padding: 27%;
+    background-size:contain;
+}
